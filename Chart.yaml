@@ -1,0 +1,14 @@
+apiVersion: v2
+appVersion: '1.23.13'
+deprecated: false
+description: A self-hosted Monitoring tool like "Uptime-Robot".
+home: https://code.pulseflow.ch/pulsedev/uptime-kuma
+icon: https://raw.githubusercontent.com/louislam/uptime-kuma/master/public/icon.png
+maintainers:
+  - name: PulseDev
+    email: loic.kalbermatter@pulseflow.ch
+name: uptime-kuma
+sources:
+  - https://github.com/louislam/uptime-kuma
+type: application
+version: 1.23.13
